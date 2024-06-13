@@ -15,9 +15,9 @@ Emphasizes the core functionality of delivering timely trade alerts
 <li>Secure & Reliable: Leverages AWS cloud infrastructure for secure data handling and high availability<br></li>
 <br>
 <h3>Requirements<br></h3>
-<!-- <br> -->
-<!-- <li>sudo apt install python3-pip -y<br></li>
-<li><br></li>
-<li><br></li>
+<br>
+<li>TradingView<br></li>
+<li>Domain<br></li>
+<!-- <li><br></li>
 <li><br></li>
 <li><br></li> -->
