@@ -18,6 +18,6 @@ Emphasizes the core functionality of delivering timely trade alerts
 <br>
 <li>TradingView<br></li>
 <li>Domain<br></li>
+<li>AWS<br></li>
 <!-- <li><br></li>
-<li><br></li>
 <li><br></li> -->
