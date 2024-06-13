@@ -10,7 +10,7 @@ Emphasizes the core functionality of delivering timely trade alerts
 <br>
 <h3>Features<br></h3>
 <li>Real-time Alerting: Instantly receive trading alerts from TradingView, triggered by your predefined conditions<br></li>
-<li>Multi-Platform Notifications: Get notified via Telegram, WhatsApp, SMS (consider limitations), and email<br></li>
+<li>Multi-Platform Notifications: Get notified via Telegram, SMS (consider limitations), and Push Notification<br></li>
 <li>Customizable Alert Rules: Define your own trading indicators, price thresholds, and other parameters to trigger alerts<br></li>
 <li>Secure & Reliable: Leverages AWS cloud infrastructure for secure data handling and high availability<br></li>
 <br>
